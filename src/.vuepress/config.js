@@ -7,7 +7,7 @@ const GITHUB_USERNAME = 'Vincent-Girard' // TODO
 
 
 module.exports = config({
-  base: "/blog/",
+  base: "/student-workbook/",
   title: 'Codeworks Student Learning Blog',
   description: "My thoughts notes and reflections while attending Codeworks Immersive FullStack Program",
   head: [
