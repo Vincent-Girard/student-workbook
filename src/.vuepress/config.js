@@ -18,7 +18,7 @@ module.exports = config({
     ['meta', { name: 'ROBOTS', content: 'FOLLOW' }],
     ['meta', { name: 'og:image', content: 'https://bcw.blob.core.windows.net/public/img/8600856373152463' }],
     ['meta', { name: 'og:type', content: 'article' }],
-    ['meta', { name: 'og:url', content: `https://${GITHUB_USERNAME}.github.io/blog` }],
+    ['meta', { name: 'og:url', content: `https://${GITHUB_USERNAME}.github.io/student-workbook` }],
     ['meta', { name: 'og:title', content: 'Learn to Code. Develop Your Future' }],
     ['meta', { name: 'og:locale', content: 'en_US' }]
   ],
