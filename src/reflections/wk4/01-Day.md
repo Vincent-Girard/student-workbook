@@ -17,5 +17,10 @@ It's a programming language where one thing can happen at a time. It allows the 
 3. Handle every single error - Don't ignore any error that you get and plan for those errors to occur through your code. You can use $ standard in your code to identify any unhandled errors. This method is what is used to make the code STABLE. 
 
 
+## Afternoon Challenge
+
+https://github.com/Vincent-Girard/trivia
+
+
 
 

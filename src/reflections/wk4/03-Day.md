@@ -14,3 +14,6 @@ They were designed to reduce hte obilerplate around promises and the limitation 
 
 It provides far easier debugging because the debugger will not step over asynchronous code. Doing this will also give the appaearance that it's syncrhonous code. 
 
+## Afternoon challenge
+
+https://github.com/Vincent-Girard/pokedex

@@ -20,3 +20,6 @@ Promises can be attached to Callbacks rather than passing them. By using promise
 .catch() - This is for when the promise fails. When/if the promise fails it will jump to the catch message and depending on how you coded it, you could see a different message in the console 
 
 
+## Afternoon Challenge
+
+https://github.com/Vincent-Girard/winter2020-api-gregslist
