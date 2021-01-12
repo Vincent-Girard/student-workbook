@@ -24,6 +24,7 @@ There are a lot of thigns to consider but the first is that is does one side hav
 
 ## Afternoon Challenge
 
+https://github.com/Vincent-Girard/gregslist
 
 
 
