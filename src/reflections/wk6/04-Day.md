@@ -15,3 +15,7 @@ instead of having different pages to China/America, you might have televisions a
 Yes. In the example of the travel, you may wish to pass the parameter of the country you are trying to visit. You may want to use these to get information to different parts of the code. 
 
 ## Daily Afternoon Coding Challenge
+
+Unfortunately, we didn't get super far on the pokedex :( . 
+
+https://github.com/Vincent-Girard/pokedex2point0
