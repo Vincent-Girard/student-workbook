@@ -16,4 +16,4 @@ As the most often used hooks, they allow you access to component immediately bef
 
 ## Daily afternoon coding challenge 
 
-(if you are reading this, I have forgotten to link)
+(https://github.com/Vincent-Girard/winter2020-vue-gregslist)
