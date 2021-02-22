@@ -11,3 +11,8 @@ Not all members of the class are inherited. They typically inherit methods and p
 ## 3. How does accessibility affect inheritance? 
 
 Things that are private for example would not be inherited by the child because it's private to the parent in this case. So if you want to inherit, you need to use public or internal. 
+
+
+## Daily Challenge link
+
+https://github.com/Vincent-Girard/travel
