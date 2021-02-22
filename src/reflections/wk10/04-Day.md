@@ -28,3 +28,10 @@ Private: Would be where it can only be in the same class or struct.
 
 
 ## Daily Challenge 
+
+https://github.com/Vincent-Girard/winter20-burgershack
+
+
+# FRIDAY AFTERNOON CHALLENGE 
+
+https://github.com/Vincent-Girard/allspice

@@ -12,8 +12,9 @@ You are unable to modify an enum at the time of compiling from what I have gathe
 
 ## How have you used Enums in your afternoon lab projects this far?
 
-COME BACK TO THIS 
+Didn't end up using them in my afternoon labs. However the capstone team I was on did use them for the pending/accepted/declined. pending was 0, 1 accepted, 2 declined. 
 
 ## Afternoon challenge 
 
+https://github.com/Vincent-Girard/gregslist-c-sharp
 
