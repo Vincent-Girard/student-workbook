@@ -50,4 +50,6 @@ return _db.Query<Patients, Doctors, Patients>(sql (pateints, doctors)=>
 }
 "
 
+## Afternoon Challenge
 
+https://github.com/Vincent-Girard/jobs
