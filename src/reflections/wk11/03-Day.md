@@ -22,3 +22,7 @@ Blind SQL injeciton - this is where results of a query you control do not turn i
 Intrusion detection systems - This is both network and host based, this can configured to detect SQL injection attacks. The network based IDSes will monitor all of the connections to the db server and show you anything that is irregular. 
 
 Host based will monitor the web server logs and also alert you if something strange is going on 
+
+## Afternoon Project 
+
+https://github.com/Vincent-Girard/taskmasterbackend
